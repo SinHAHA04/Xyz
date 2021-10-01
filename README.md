@@ -1,2 +1,2 @@
 # Xyz
-THis is a great app to work on
+THis is a great app to work on.
